@@ -7,3 +7,10 @@ git add . 	- add stuff to staging
 
 git commit	- make a commit
 
+git push origin master - add to github
+
+git diff	- show unstaged stuff
+git diff --cached - show staged stuff
+git log		- list of commits
+git log -p	- show exact changes in each commit
+
