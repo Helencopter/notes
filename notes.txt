@@ -1,0 +1,9 @@
+
+git init	- make new repo in current folder
+vim .gitignore	- add files to be ignored
+
+git status	- check current status
+git add . 	- add stuff to staging
+
+git commit	- make a commit
+
